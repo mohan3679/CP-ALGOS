@@ -1,3 +1,4 @@
+#include <bits/stdc++.h>
 void make_set(int v) {
     parent[v] = v;
     index[v] = rand();
